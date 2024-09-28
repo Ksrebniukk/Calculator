@@ -11,6 +11,7 @@ class Calculator
         int Add (double, double);
         int Mul (double, double);
 	int Sub (double, double);
+	double Average(double, double);
 >>>>>>> e0ea21b (add a multiplication operation)
 };
 
